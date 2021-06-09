@@ -16,7 +16,7 @@ section
     p El sector de la confección en la actualidad es uno de los más dinámicos de la economía colombiana, generando 70% del empleo y 6% del producto interno bruto (ProColombia, s.f., Colombia Productiva, s.f.).
       br
       br
-      |A pesar de que el sector tiene una alta proyección económica se han detectado necesidades de nuevos puestos de trabajo y actualización del talento humano como lo muestra el informe de Identificación y cierre de brechas de capital humano para el clúster de prendas de vestir de Bogotá-región, realizado por la CCB y el Programa de la Naciones Unidas para el Desarrollo (PNUD) que, además, evidencia la necesidad de consolidar al sector de la confección como de clase mundial, resaltando la competitividad, el fortalecimiento empresarial, crecimiento de la industria, acceso a nuevos mercados y la garantía de la multiplicación de ingresos del sector.
+      |A pesar de que el sector tiene una alta proyección económica se han detectado necesidades de nuevos puestos de trabajo y actualización del talento humano como lo muestra el informe de Identificación y cierre de brechas de capital humano para el clúster de prendas de vestir de Bogotá-región, realizado por la CCB y el Programa de las Naciones Unidas para el Desarrollo (PNUD) que, además, evidencia la necesidad de consolidar al sector de la confección como de clase mundial, resaltando la competitividad, el fortalecimiento empresarial, crecimiento de la industria, acceso a nuevos mercados y la garantía de la multiplicación de ingresos del sector.
       br
       br
       |Como política del Gobierno mediante el Programa de Colombia Productiva, en donde intervienen las instituciones públicas y privadas, se trabaja con el propósito de ofrecer programas de formación para cualificar el talento humano en el campo laboral de la confección. 
@@ -37,7 +37,7 @@ section
     .titulo__template--a.mb-4
       span.h6 4. Estrategia<br>metodológica
 
-    p entrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje que, en todo caso, recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
+    p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje que, en todo caso, recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
       br
       br
       |Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
